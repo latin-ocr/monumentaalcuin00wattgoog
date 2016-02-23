@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentaalcuin00wattgoog_0010.png"; bbox 0 0 869 1327; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 303 182 528 217">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 303 182 528 217">
+     <span class='ocr_line' id='line_1_1' title="bbox 303 182 528 217; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 303 182 528 217; x_wconf 85' lang='lat' dir='ltr'><strong>MONUMENTA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 143 328 692 387">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 143 328 692 387">
+     <span class='ocr_line' id='line_1_2' title="bbox 143 328 692 387; baseline 0.005 -6"><span class='ocrx_word' id='word_1_2' title='bbox 143 328 692 387; x_wconf 76' lang='lat' dir='ltr'><strong>ALOUINIANA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 187 549 638 571">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 187 549 638 571">
+     <span class='ocr_line' id='line_1_3' title="bbox 187 549 638 571; baseline 0 -1"><span class='ocrx_word' id='word_1_3' title='bbox 187 550 204 570; x_wconf 78' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 218 549 340 571; x_wconf 74' lang='lat' dir='ltr'>PfflLlPPO</span> <span class='ocrx_word' id='word_1_5' title='bbox 355 549 450 570; x_wconf 76' lang='lat' dir='ltr'>lAFFEO</span> <span class='ocrx_word' id='word_1_6' title='bbox 464 549 638 570; x_wconf 78' lang='lat' dir='ltr'>PRAEPARATA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 352 644 471 659">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 352 644 471 659">
+     <span class='ocr_line' id='line_1_4' title="bbox 352 644 471 659; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 352 644 471 659; x_wconf 57' lang='lat' dir='ltr'><strong>amomum-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 208 706 617 731">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 208 706 617 731">
+     <span class='ocr_line' id='line_1_5' title="bbox 208 706 617 731; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 208 706 399 731; x_wconf 85' lang='lat' dir='ltr'>WATTENBAGH</span> <span class='ocrx_word' id='word_1_9' title='bbox 415 714 443 731; x_wconf 79' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 461 706 617 731; x_wconf 78' lang='lat' dir='ltr'><strong>DUEMMLER</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 338 1006 483 1008">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 338 1006 483 1008">
+     <span class='ocr_line' id='line_1_6' title="bbox 338 1006 483 1008; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 338 1006 483 1008; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 253 1078 564 1092">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 253 1078 564 1092">
+     <span class='ocr_line' id='line_1_7' title="bbox 253 1078 564 1092; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 253 1078 564 1092; x_wconf 73' lang='lat' dir='ltr'><strong>AAAAAAAAAAAAAAA</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
